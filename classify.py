@@ -1,4 +1,8 @@
 # MachineLearning
+####################################################################################
+# caffe python 文档路径： https://github.com/abhi-kumar/Caffe-Python-Basic-Tutorial
+####################################################################################
+
 #0、准备文件
 # deploy.prototxt： 网络结构配置文件
 # bvlc_alexnet.caffemodel： 网络权重文件
